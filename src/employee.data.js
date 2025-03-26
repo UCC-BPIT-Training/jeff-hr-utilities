@@ -1,7 +1,7 @@
 export const employee = {
-  firstName: 'Pedro',
-  lastName: 'Penduko',
-  role: 'QA Analyst',
-  department: 'IT',
-  skills: ['JavaScript', 'Cypress', 'Postman'],
+  firstName: 'Jeff',
+  lastName: 'Mendoza',
+  role: 'Web Developer',
+  department: 'SDIT',
+  skills: ['Coding', 'Exercising', 'Gaming'],
 };
